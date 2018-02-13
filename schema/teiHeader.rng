@@ -259,6 +259,7 @@ et à informer l'utilisateur des améliorations apportées entre .</a:documentat
       <a:documentation xmlns="http://www.w3.org/1999/xhtml">Section fixe, sauf la date et l'URI.</a:documentation>
       <oneOrMore>
         <element name="date">
+          <attribute name="when">Test</attribute>
           <a:documentation xmlns="http://www.w3.org/1999/xhtml">Date de publication au format ISO /AAAA((-MM)?-JJ)?/,
   à précisément renseigner, afin que celui qui télécharge
   le fichier sache la version qu'il a.
