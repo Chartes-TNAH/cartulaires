@@ -12,8 +12,7 @@ Cela crée un environnement virtuel dans lequel pourront être installés les pa
 *Cette commande sera nécessaire à chaque fois que vous voudrez activer l'environnement virtuel pour travailler avec cts_creator.py.*  
   
 Dans le même terminal, tapez :  
-`pip install lxml`  
-> il faut installer lxml-4.1.1
+`pip install lxml==4.1.1`  
 
 Cela installe le package `lxml` nécessaire pour la création des fichiers xml.  
 
