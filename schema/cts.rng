@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<grammar
+    xmlns="http://relaxng.org/ns/structure/1.0"
+    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+    datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
+    ns="http://www.tei-c.org/ns/1.0"
+    >
+    <a:documentation>
+        <h1 id="texte.rng">Prérequis CapiTainS (optionnel)</h1>
+    </a:documentation>
+    
+    <define name="cts.refsDecl">
+        <element name="refsDecl">
+            <attribute name="n">
+                <text/>
+            </attribute>
+            <oneOrMore>
+                <element name="cRefPattern">
+                    <attribute name="n">
+                        <text/>
+                    </attribute>
+                    <attribute name="matchPattern">
+                        <text/>
+                    </attribute>
+                    <attribute name="replacementPattern">
+                        <text/>
+                    </attribute>
+                    <element name="p">
+                        <text/>
+                    </element>
+                </element>
+            </oneOrMore>
+        </element>
+    </define>
+        
+</grammar>
+
