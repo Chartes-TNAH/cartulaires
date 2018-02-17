@@ -364,6 +364,7 @@ Cet élément (msDesc) mérite une réflexion attentive dans un schéma distinct
           </oneOrMore>
         </element>
       </optional>
+        <ref name="cts.refsDecl"/>
       <optional>
         <element name="editorialDecl">
           <a:documentation xmlns="http://www.w3.org/1999/xhtml">Corrections apportées au document source.</a:documentation>
@@ -495,4 +496,5 @@ notamment dans une entête TEI.</a:documentation>
   <start combine="choice">
     <ref name="teiHeader"/>
   </start>
+  <include href="cts.rng"/>
 </grammar>
