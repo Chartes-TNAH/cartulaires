@@ -95,6 +95,13 @@
         <p>Ce fichier est issu d'une numérisation OCR dans le cadre du projet de numérisation des
           cartulaires d'Île-de-France mené par la bibliothèque de l'Ecole des chartes.</p>
       </projectDesc>
+      <refsDecl n="CTS">
+        <cRefPattern 
+          n="charte" matchPattern="(\w+)"
+          replacementPattern="#xpath(/tei:TEI/tei:text/tei:group/tei:group/tei:text[@n='$1'])">
+          <p>Ce pointeur extrait les chartes</p>
+        </cRefPattern>
+      </refsDecl>
     </encodingDesc>
     <revisionDesc>
       <change when="2010-10" who="#NR">Encodage de l'introduction</change>
