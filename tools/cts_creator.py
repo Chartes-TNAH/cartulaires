@@ -129,7 +129,7 @@ def create_cts_textgrp(liste_information):
     '''
     # importe le module etree de la library lxml désigné par ET pour simplifier (utilisation courante)
     import lxml.etree as ET
-    urn_calcul = 'urn:cts:' + ':' + liste_information[4] + ':' + liste_information[1]
+    urn_calcul = 'urn:cts:' + ':' + CODE_NAMESPACE + ':' + liste_information[1]
     #définit l'élément racine du fichier
     root = ET.Element("textgroup")
     #ajoute des attributs à l'élément racine textgroup
