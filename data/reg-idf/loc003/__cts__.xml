@@ -1,0 +1,7 @@
+<work xmlns="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:FrCart:reg-idf" urn="urn:cts:FrCart:reg-idf.loc003" xml:lang="mul">
+  <title xml:lang="fre">Cartulaire du prieuré bénédictin de Saint-Gondon sur Loire</title>
+  <edition workUrn="urn:cts:FrCart:reg-idf.loc003" urn="urn:cts:FrCart:reg-idf.loc003.cart-enc01" xml:lang="fre">
+    <label xml:lang="fre">Cartulaire du prieuré bénédictin de Saint-Gondon sur Loire</label>
+    <description xml:lang="fre">Ce fichier est issu d'une numérisation OCR dans le cadre du projet de numérisation des cartulaires d'Île-de-France mené par la bibliothèque de l'Ecole des chartes. </description>
+  </edition>
+</work>

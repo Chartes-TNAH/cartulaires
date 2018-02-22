@@ -1,0 +1,7 @@
+<work xmlns="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:FrCart:reg-idf" urn="urn:cts:FrCart:reg-idf.loc002" xml:lang="mul">
+  <title xml:lang="fre">Le prieur&#233; de Saint-Germain-en-Laye, origines et cartulaire</title>
+  <edition workUrn="urn:cts:FrCart:reg-idf.loc002" urn="urn:cts:FrCart:reg-idf.loc002.cart-enc01" xml:lang="fre">
+    <label xml:lang="fre">Le prieur&#233; de Saint-Germain-en-Laye, origines et cartulaire</label>
+    <description xml:lang="fre">Ce fichier est issu d'une numérisation OCR dans le cadre du projet de numérisation des cartulaires d'Île-de-France mené par la bibliothèque de l'Ecole des chartes.</description>
+  </edition>
+</work>
