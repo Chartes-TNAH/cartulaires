@@ -1,7 +1,43 @@
-<work xmlns="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:FrCart:reg-idf" urn="urn:cts:FrCart:reg-idf.loc003" xml:lang="mul">
-  <title xml:lang="fre">Cartulaire du prieuré bénédictin de Saint-Gondon sur Loire</title>
-  <edition workUrn="urn:cts:FrCart:reg-idf.loc003" urn="urn:cts:FrCart:reg-idf.loc003.cart-enc01" xml:lang="fre">
-    <label xml:lang="fre">Cartulaire du prieuré bénédictin de Saint-Gondon sur Loire</label>
-    <description xml:lang="fre">Ce fichier est issu d'une numérisation OCR dans le cadre du projet de numérisation des cartulaires d'Île-de-France mené par la bibliothèque de l'Ecole des chartes. </description>
-  </edition>
-</work>
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work groupUrn="urn:cts:FrCart:reg-idf" urn="urn:cts:FrCart:reg-idf.loc003" xml:lang="mul"
+  xmlns:ti="http://chs.harvard.edu/xmlns/cts" xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:cpt="http://purl.org/capitains/ns/1.0#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <ti:title xml:lang="fre">Cartulaire du prieuré bénédictin de Saint-Gondon sur Loire</ti:title>
+  <ti:edition workUrn="urn:cts:FrCart:reg-idf.loc003" urn="urn:cts:FrCart:reg-idf.loc003.cart-enc01">
+    <ti:label xml:lang="fre">Cartulaire du prieuré bénédictin de Saint-Gondon sur Loire</ti:label>
+    <ti:description xml:lang="fre"> Ce fichier est issu d'une numérisation OCR dans le cadre du
+      projet de numérisation des cartulaires d'Île-de-France mené par la bibliothèque de l'Ecole des
+      chartes. </ti:description>
+    <cpt:structured-metadata>
+      <dc:creator xml:lang="fre">Olivier Guyotjeannin</dc:creator>
+      <dc:creator>http://data.bnf.fr/ark:/12148/cb11906612z</dc:creator>
+      <dc:title xml:lang="fre">Cartulaire du prieuré bénédictin de Saint-Gondon sur Loire</dc:title>
+      <dc:contributor xml:lang="fre">Olivier Canteaut</dc:contributor>
+      <dc:contributor xml:lang="fre">Frédéric Glorieux</dc:contributor>
+      <dc:contributor xml:lang="fre">Joana Casenave</dc:contributor>
+      <dc:contributor xml:lang="fre">Camille Desenclos</dc:contributor>
+      <dc:contributor xml:lang="fre">Naomi Russo</dc:contributor>
+      <dc:contributor xml:lang="fre">Elise Girold</dc:contributor>
+      <dc:contributor xml:lang="fre">Alix Chagué</dc:contributor>
+      <dc:contributor xml:lang="fre">Léa Duflos</dc:contributor>
+      <dc:contributor xml:lang="fre">Anne-Laure Huet</dc:contributor>
+      <dc:contributor xml:lang="fre">Eglantine Charmetant</dc:contributor>
+      <dc:contributor xml:lang="fre">François Caillibot</dc:contributor>
+      <dc:contributor xml:lang="fre">Morgane Pica</dc:contributor>
+      <dc:publisher xml:lang="fre">Ecole nationale des chartes</dc:publisher>
+      <!--
+            <dc:rights>
+                 Pas d'Utilisation Commerciale, Pas de Modification, l'École nationale des chartes demande
+                 à ce que toute publication dérivée de ses ressources électroniques comporte :
+                 un lien vers l'adresse pérennede la dernière version de la ressource sur notre site ;
+                 la date du fichier source utilisé ; nos noms.
+            </dc:rights>
+-->
+      <dc:source>http://gallica.bnf.fr/ark:/12148/bpt6k914156</dc:source>
+      <dc:language>Français</dc:language>
+      <dc:language>Latin</dc:language>
+      <dc:format>text/xml-tei</dc:format>
+      <dc:date>2009</dc:date>
+    </cpt:structured-metadata>
+  </ti:edition>
+</ti:work>
