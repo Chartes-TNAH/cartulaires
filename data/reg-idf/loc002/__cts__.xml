@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <ti:work groupUrn="urn:cts:frCart:reg-idf" urn="urn:cts:frCart:reg-idf.loc002" xml:lang="mul"
     xmlns:ti="http://chs.harvard.edu/xmlns/cts" xmlns:dct="http://purl.org/dc/terms/"
@@ -10,6 +9,7 @@
         <ti:description xml:lang="fre"> Ce fichier est issu d'une numérisation OCR dans le cadre du
             projet de numérisation des cartulaires d'Île-de-France mené par la bibliothèque de
             l'Ecole des chartes. </ti:description>
+	
 	</ti:edition>
         <cpt:structured-metadata>
             <dc:creator xml:lang="fre">Olivier Guyotjeannin</dc:creator>
