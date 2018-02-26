@@ -1,7 +1,49 @@
-<work xmlns="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:FrCart:reg-idf" urn="urn:cts:FrCart:reg-idf.loc004" xml:lang="mul">
-  <title xml:lang="fre">Le prieuré; de Saint-Lieu d'Esserent - Cartulaire (1080-1538)</title>
-  <edition workUrn="urn:cts:FrCart:reg-idf.loc004" urn="urn:cts:FrCart:reg-idf.loc004.cart-enc01" xml:lang="fre">
-    <label xml:lang="fre">Le prieuré; de Saint-Lieu d'Esserent - Cartulaire (1080-1538)</label>
-    <description xml:lang="fre">Ce fichier est issu d'une numérisation OCR dans le cadre du projet de numérisation des</description>
-  </edition>
-</work>
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work 
+  xmlns:ti="http://chs.harvard.edu/xmlns/cts"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:cpt="http://purl.org/capitains/ns/1.0#" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  groupUrn="urn:cts:frCart:reg-idf" 
+  urn="urn:cts:frCart:reg-idf.loc004" 
+  xml:lang="mul">
+  <ti:title xml:lang="fre">Le prieuré de Saint-Leu d'Esserent - Cartulaire (1080-1538)</ti:title>
+  <ti:edition workUrn="urn:cts:frCart:reg-idf.loc004" urn="urn:cts:frCart:reg-idf.loc004.cart-enc01" xml:lang="mul">
+    <ti:label xml:lang="fre">Le prieuré; de Saint-Leu d'Esserent - Cartulaire (1080-1538)</ti:label>
+    <ti:description xml:lang="fre">Ce fichier est issu d'une numérisation OCR dans le cadre du projet de numérisation des
+      cartulaires d'Île-de-France mené par la bibliothèque de l'Ecole des chartes.</ti:description>
+  </ti:edition>
+  <cpt:structured-metadata>
+    <dc:creator xml:lang="fre">Olivier Guyotjeannin</dc:creator>
+    <dc:creator>http://data.bnf.fr/ark:/12148/cb11906612z</dc:creator>
+    <dc:title xml:lang="fre">Le prieuré de Saint-Leu d'Esserent - Cartulaire (1080-1538)</dc:title>
+    <dc:contributor xml:lang="fre">Olivier Canteaut</dc:contributor>
+    <dc:contributor xml:lang="fre">Frédéric Glorieux</dc:contributor>
+    <dc:contributor xml:lang="fre">Joana Casenave</dc:contributor>
+    <dc:contributor xml:lang="fre">Camille Desenclos</dc:contributor>
+    <dc:contributor xml:lang="fre">Naomi Russo</dc:contributor>
+    <dc:contributor xml:lang="fre">Elise Girold</dc:contributor>
+    <dc:contributor xml:lang="fre">Alix Chagué</dc:contributor>
+    <dc:contributor xml:lang="fre">Léa Duflos</dc:contributor>
+    <dc:contributor xml:lang="fre">Anne-Laure Huet</dc:contributor>
+    <dc:contributor xml:lang="fre">Eglantine Charmetant</dc:contributor>
+    <dc:contributor xml:lang="fre">François Caillibot</dc:contributor>
+    <dc:contributor xml:lang="fre">Morgane Pica</dc:contributor>
+    <dc:publisher xml:lang="fre">Ecole nationale des chartes</dc:publisher>
+    <!--
+     <dc:rights>
+      Pas d'Utilisation Commerciale, Pas de Modification, l'École nationale des chartes demande
+      à ce que toute publication dérivée de ses ressources électroniques comporte :
+      un lien vers l'adresse pérennede la dernière version de la ressource sur notre site ;
+      la date du fichier source utilisé ; nos noms.
+     </dc:rights>
+    -->
+    <dc:source>http://gallica.bnf.fr/ark:/12148/bpt6k406267s</dc:source>
+    <dc:language>Français</dc:language>
+    <dc:language>Latin</dc:language>
+    <dc:language>Grec</dc:language>
+    <dc:format>text/xml-tei</dc:format>
+    <dc:date>2009</dc:date>
+  </cpt:structured-metadata>
+  
+</ti:work>
