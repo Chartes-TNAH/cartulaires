@@ -121,7 +121,7 @@
       <change when="2009-09" who="#CD">suivi de numérisation</change>
     </revisionDesc>
   </teiHeader>
-  <text>
+  <text xml:lang="mul" xml:base="urn:cts:frCart:reg-idf.loc004.cart-enc01">
     <front>
       <head><hi rend="i">Cartulaire du prieuré de Saint-Leu d’Esserent (1080-1538)</hi>, éd. Eugène
         Müller, Pontoise, Société historique du Vexin, 1900-1901, 210 pages.</head>
