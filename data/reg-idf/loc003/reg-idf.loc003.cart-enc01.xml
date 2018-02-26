@@ -115,7 +115,7 @@
       <change when="2009-09" who="#CD">suivi de numérisation</change>
     </revisionDesc>
   </teiHeader>
-  <text>
+  <text xml:lang="mul" xml:base="urn:cts:frCart:reg-idf.loc003.cart-enc01">
     <front>
       <head><hi rend="i">Cartulaire du prieuré bénédictin de Saint-Gondon-sur-Loire</hi>, éd. Paul
         Marchegay, Les-Roches-Baritaud, 1877, 64 pages.</head>
