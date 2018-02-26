@@ -8,6 +8,7 @@
     <ti:description xml:lang="fre"> Ce fichier est issu d'une numérisation OCR dans le cadre du
       projet de numérisation des cartulaires d'Île-de-France mené par la bibliothèque de l'Ecole des
       chartes. </ti:description>
+  </ti:edition>
     <cpt:structured-metadata>
       <dc:creator xml:lang="fre">Olivier Guyotjeannin</dc:creator>
       <dc:creator>http://data.bnf.fr/ark:/12148/cb11906612z</dc:creator>
@@ -39,5 +40,4 @@
       <dc:format>text/xml-tei</dc:format>
       <dc:date>2009</dc:date>
     </cpt:structured-metadata>
-  </ti:edition>
 </ti:work>
