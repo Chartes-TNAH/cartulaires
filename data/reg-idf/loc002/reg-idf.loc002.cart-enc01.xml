@@ -134,7 +134,7 @@
       <change when="2007" who="#GP #JCM #RM">Première édition électronique</change>
     </revisionDesc>
   </teiHeader>
-  <text>
+  <text xml:lang="mul" xml:base="urn:cts:frCart:reg-idf.loc002.cart-enc01">
     <front>
       <head>Joseph Depoin, <hi rend="i">Le prieuré de Saint-Germain-en-Laye, origines et
           cartulaire</hi>, Versailles : Cerf et C<hi rend="sup">ie</hi> impimeurs, 1895,
